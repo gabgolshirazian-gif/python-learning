@@ -1,4 +1,3 @@
-
 #Lambda concepts:
 a = (lambda a : a+2)(2)
 print(a)
