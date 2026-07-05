@@ -1,3 +1,5 @@
+# args and kwargs:
+
 def test_func(*args):
     print(args)
 
