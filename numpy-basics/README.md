@@ -1,3 +1,6 @@
 # python-learning
-A collection of Python basics and practice and exercises.
+A collection of Numpy basics and practice and exercises.
+
+
+
 
