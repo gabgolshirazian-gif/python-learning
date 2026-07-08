@@ -20,4 +20,9 @@ A collection of Matplotlib basics and practice and exercises.
    Displaying the sales of 3 different brands in a piechart using the matplotlib module.
 
    ![ matplotlib piechart](images/matplotlib-piechart.PNG)
-   
+
+
+- matplotlib subplot
+  Creating a figure and showing 4 different subplots within one figure.
+
+  ![ matplotlib piechart](images/matplotlib-subplot.PNG)
