@@ -19,5 +19,5 @@ A collection of Matplotlib basics and practice and exercises.
  - matplotlib piechart
    Displaying the sales of 3 different brands in a piechart using the matplotlib module.
 
-   ![ matplotlib piechart](images/matplotlib-piechart.png)
+   ![ matplotlib piechart](images/matplotlib-piechart.PNG)
    
