@@ -13,4 +13,4 @@ A collection of Matplotlib basics and practice and exercises.
 - matplotlib barplot
   Comparing salaries in two different job fields based on age using the Matplotlib module
 
-  ![ matplotlib introduction](images/matplotlib-barplot.png)
+  ![ matplotlib barplot](images/matplotlib-barplot.png)
