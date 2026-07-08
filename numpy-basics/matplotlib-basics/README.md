@@ -14,3 +14,10 @@ A collection of Matplotlib basics and practice and exercises.
   Comparing salaries in two different job fields based on age using the Matplotlib module
 
   ![ matplotlib barplot](images/matplotlib-barplot.png)
+
+
+ - matplotlib piechart
+   Displaying the sales of 3 different brands in a piechart using the matplotlib module.
+
+   ![ matplotlib piechart](images/matplotlib-piechart.PNG)
+   
