@@ -1,4 +1,4 @@
-# python-learning
+# Matplotlib-basics
 A collection of Matplotlib basics and practice and exercises.
 
 # Topics Covered
