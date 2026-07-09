@@ -1,4 +1,4 @@
-# python-learning
+# python-basics
 This repository contains my learning journey through Python fundamentals. It includes practical examples, exercises, and mini-projects covering the core concepts of Python programming.
 
 # Topics Covered
