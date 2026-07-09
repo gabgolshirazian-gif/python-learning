@@ -9,7 +9,7 @@ This repository documents my journey of learning Python for **Data Science**, **
 
 python-learning
 
-1- [Python Basics](01-python-basics)
+1- ![Python Basics](01-python-basics)
 2- numpy-basics
 3- matplotlib-basics
 4- pandas-basics
