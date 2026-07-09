@@ -25,4 +25,4 @@ A collection of Matplotlib basics and practice and exercises.
  - matplotlib subplot
    Displaying 4 subplots within a figure using the Matplotlib module.
    
-   ![ matplotlib piechart](images/matplotlib-subplot.PNG)
+   ![ matplotlib subplot](images/matplotlib-subplot.PNG)
