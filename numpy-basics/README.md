@@ -1,4 +1,4 @@
-# python-learning
+# numpy-basics
 A collection of Numpy basics and practice and exercises.
 
 
