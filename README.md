@@ -10,8 +10,8 @@ This repository documents my journey of learning Python for **Data Science**, **
 python-learning
 
 - [Python Basics](python-basics)
-- numpy-basics
-- matplotlib-basics
+- [numpy-basics](numpy-basics)
+- [matplotlib-basics](matplotlib-basics)
 - pandas-basics
 - seaborn-basics
 - scikit-learn-basics
