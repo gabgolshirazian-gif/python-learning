@@ -12,18 +12,23 @@ A collection of Matplotlib basics and practice and exercises.
 
 
 - matplotlib barplot
-  Comparing salaries in two different job fields based on age using the Matplotlib module
+
+  [Comparing salaries in two different job fields based on age using the Matplotlib module.](matplotlib-barplot.py)
+  
 
   ![ matplotlib barplot](images/matplotlib-barplot.PNG)
 
 
  - matplotlib piechart
-   Displaying the sales of 3 different brands in a piechart using the matplotlib module.
+
+   [Displaying the sales of 3 different brands in a piechart using the matplotlib module.](matplotlib-piechart.py)
+ 
 
    ![ matplotlib piechart](images/matplotlib-piechart.PNG)
    
 
  - matplotlib subplot
-   Displaying 4 subplots within a figure using the Matplotlib module.
+
+   [Displaying 4 subplots within a figure using the Matplotlib module.](matplotlib-subplot.py)
    
    ![ matplotlib subplot](images/matplotlib-subplot.PNG)
