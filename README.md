@@ -8,17 +8,17 @@ This repository documents my journey of learning Python for **Data Science**, **
 
 
 python-learning
-│
-├── 01-python-basics
-├── 02-numpy-basics
-├── 03-pandas-basics
-├── 04-matplotlib-basics
-├── 05-seaborn-basics
-├── 06-scikit-learn-basics
-├── 07-tensorflow-basics
-├── 08-pytorch-basics
-├── 09-opencv-basics
-└── 10-nlp-basics
+
+1- python-basics
+2- numpy-basics
+3- matplotlib-basics
+4- pandas-basics
+5- seaborn-basics
+6- scikit-learn-basics
+7- tensorflow-basics
+8- pytorch-basics
+9- opencv-basics
+10- nlp-basics
 
 
 # Topics Covered
