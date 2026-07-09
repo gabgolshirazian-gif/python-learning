@@ -10,15 +10,15 @@ This repository documents my journey of learning Python for **Data Science**, **
 python-learning
 
 - [Python Basics](python-basics)
-2- numpy-basics
-3- matplotlib-basics
-4- pandas-basics
-5- seaborn-basics
-6- scikit-learn-basics
-7- tensorflow-basics
-8- pytorch-basics
-9- opencv-basics
-10- nlp-basics
+- numpy-basics
+- matplotlib-basics
+- pandas-basics
+- seaborn-basics
+- scikit-learn-basics
+- tensorflow-basics
+- pytorch-basics
+- opencv-basics
+- nlp-basics
 
 
 # Topics Covered
