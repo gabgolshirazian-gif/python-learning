@@ -8,6 +8,7 @@ data = {"name":     ["Gab"  , "Alex" , "Scarlet" , "stephania" , "John" ],
         "Insurance":[True ,  False ,   False   ,   True      ,  True    ] 
         }
 
+
 df = pd.DataFrame(data)
 print(df)
 
