@@ -12,7 +12,7 @@ python-learning
 - [Python Basics](python-basics)
 - [numpy-basics](numpy-basics)
 - [matplotlib-basics](matplotlib-basics)
-- pandas-basics
+- [pandas-basics](pandas-basics)
 - seaborn-basics
 - scikit-learn-basics
 - tensorflow-basics
