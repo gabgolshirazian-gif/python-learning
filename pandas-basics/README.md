@@ -8,6 +8,7 @@ A collection of pandas basics and practice and exercises.
 - [Checking insert and delete rows and columns in Dataframes.](delete&insert-Dataframes.py)
 - [Inserting and setting indexes in dataframes.](indexing-Dataframes.py)
 - [Checking loc and iloc in dataframes.](loc&iloc-Dataframes.py)
+- [Checking the concat function in dataframes.](concat-Dataframes.py)
 
 
 
