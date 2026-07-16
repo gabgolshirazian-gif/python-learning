@@ -67,5 +67,6 @@ plt.scatter(mean,1,s=500 , color = "r" )
 plt.scatter(median,1,s=100 , color = "g" )
 plt.scatter(mode,1,s=500 , color = "b" )
 
+
 plt.show()
 
