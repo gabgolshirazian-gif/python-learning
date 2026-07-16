@@ -10,6 +10,7 @@ A collection of pandas basics and practice and exercises.
 - [Checking loc and iloc in dataframes.](loc&iloc-Dataframes.py)
 - [Checking the concat function in dataframes.](concat-Dataframes.py)
 - [Checking comparison operators in dataframes.](operations-Dataframes.py)
+- [How to read and write csv and xlsx files and converting files.](read&writeFiles-Dataframes.py)
 
 
 
