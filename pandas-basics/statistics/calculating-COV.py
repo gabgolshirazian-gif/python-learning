@@ -23,6 +23,8 @@ b_cov = std_b / mean_b
 
 print(a_cov)
 
+
 print("-------------------------------")
+
 
 print(b_cov)
