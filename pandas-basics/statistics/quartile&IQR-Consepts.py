@@ -3,11 +3,9 @@ import matplotlib.pyplot as plt
 import pandas as pd 
 import seaborn as sns
 
-
 data = pd.read_csv("student_data.csv")
 
 grade = data["G1"] + data["G2"] + data["G3"]
-
 
 # Q1 = 25 , Q2 = 32 , Q3 = 40
 print(grade.describe())
