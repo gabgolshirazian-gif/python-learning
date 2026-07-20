@@ -10,6 +10,7 @@ grade = data["G1"] + data["G2"] + data["G3"]
 # Q1 = 25 , Q2 = 32 , Q3 = 40
 print(grade.describe())
 
+
 data["ave"] = grade / 3 
 
 # In the graph drawn for the columns ave, G1, G2, and G3, there is a rectangle
