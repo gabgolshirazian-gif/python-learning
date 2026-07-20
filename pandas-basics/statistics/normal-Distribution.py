@@ -7,7 +7,8 @@ import pandas as pd
 arr = np.random.normal(size=100000)
 plt.hist(arr , bins=100) 
 plt.show()
- 
+
+
 mean = arr.mean()
 std = arr.std()
 
