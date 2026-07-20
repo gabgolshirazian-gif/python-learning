@@ -7,3 +7,4 @@ Concepts of exercises related to descriptive statistics and data description
 - [The usage of COV (coefficient of variation) to STD.](calculating-COV.py)
 - [Standard normal distribution concept.](normal-Distribution.py)
 - [Checking consepts of skewness and kurt.](skewness&kurt-Consepts.py)
+- [Checking consepts of Quartile and interquartile range (IQR).](quartile&IQR-Consepts.py)
