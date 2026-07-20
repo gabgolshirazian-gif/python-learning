@@ -20,8 +20,10 @@ plt.show()
 #Calculating skew (in this case skew is -0.14)
 print(grade.skew())
 
+
 #Calculating kurt (in this case kurt is -0.33)
 print(grade.kurt())
+
 
 sns.histplot(grade ,bins=50 , kde=True)
 plt.show()
