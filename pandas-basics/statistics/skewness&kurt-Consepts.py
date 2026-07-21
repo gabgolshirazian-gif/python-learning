@@ -37,7 +37,6 @@ std = grade.std()
 # If, in this example, we consider an incentive to increase students' scores and assume that
 # students with a GPA below 43 have had an increase in GPA by STD/2, then the skewness and kurt
 # situation is as follows:
-
 grade[grade < 43] = grade[grade < 43] + (std/2) 
 
 
