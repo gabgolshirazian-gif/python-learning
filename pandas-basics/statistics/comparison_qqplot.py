@@ -16,6 +16,8 @@ rand_uniform = np.random.uniform(-3,3 , size= 10000)
 
 sns.histplot(rand_normal , kde=True)
 plt.show()
+
+
 sns.histplot(rand_uniform , kde=True)
 plt.show()
 
