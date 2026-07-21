@@ -13,7 +13,6 @@ rand_normal = np.random.normal(size= 10000)
 rand_uniform = np.random.uniform(-3,3 , size= 10000)
 
 
-
 sns.histplot(rand_normal , kde=True)
 plt.show()
 
