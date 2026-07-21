@@ -26,7 +26,6 @@ qqplot(rand_normal , line='45')
 plt.show()
 
 
-
 # As the scale or STD increases, the Scattering of the data increases,
 # resulting in our normal distribution moving away from the standard state.
 rand_normal = np.random.normal(size= 10000 , scale= 5)
