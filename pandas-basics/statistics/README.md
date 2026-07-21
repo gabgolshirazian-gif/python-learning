@@ -12,8 +12,8 @@ Concepts of exercises related to descriptive statistics and data description
   
 - [Standard normal distribution concept.](normal-Distribution.py)
 
- ![normal-Distribution1](images/normal-Distribution1.PNG)
- ![normal-Distribution2](images/normal-Distribution2.PNG)
+ ![normal-Distribution1](images/normal-Distribution/normal-Distribution1.PNG)
+ ![normal-Distribution2](images/normal-Distribution/normal-Distribution2.PNG)
 
   
 - [Checking consepts of skewness and kurt.](skewness&kurt-Consepts.py)
