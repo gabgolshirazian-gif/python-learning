@@ -41,6 +41,7 @@ qqplot(rand_uniform , line='45')
 plt.show()
 
 
+
 # Comparison of normal and uniform distributions :
 # In a normal distribution, our data tends toward the median, and in a uniform distribution,
 # part of our data is toward the median. Therefore, the part of our plot that is in the
