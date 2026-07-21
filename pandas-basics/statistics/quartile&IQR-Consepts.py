@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd 
 import seaborn as sns
 
+
 data = pd.read_csv("student_data.csv")
 
 grade = data["G1"] + data["G2"] + data["G3"]
