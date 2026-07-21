@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-
 arr = np.random.normal(size=100000)
 plt.hist(arr , bins=100) 
 plt.show()
