@@ -28,7 +28,7 @@ Concepts of exercises related to descriptive statistics and data description
  ![rand_normal_plot_1](images/comparison_qqplot/rand_normal_plot_1.PNG)
  ![rand_uniform_plot_2](images/comparison_qqplot/rand_uniform_plot_2.PNG)
  ![rand_normal_qqplot_3](images/comparison_qqplot/rand_normal_qqplot_3.PNG)
- ![rand_normal_ high_scale_qqplot_4](images/comparison_qqplot/rand_normal_high_scale_qqplot_4.PNG)
+ ![rand_normal_ high_scale_qqplot_4](images/comparison_qqplot/rand_normal_ high_scale_qqplot_4.PNG)
  ![rand_uniform_qqplot_5](images/comparison_qqplot/rand_uniform_qqplot_5.PNG)
  ![randnormal_randuniform_comparison_6](images/comparison_qqplot/randnormal_randuniform_comparison_6.PNG)
  
