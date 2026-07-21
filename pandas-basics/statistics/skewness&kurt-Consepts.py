@@ -30,6 +30,7 @@ sns.histplot(grade ,bins=50 , kde=True)
 plt.show()
 
 
+
 mean = grade.mean()
 std = grade.std()
 
@@ -38,6 +39,7 @@ std = grade.std()
 # students with a GPA below 43 have had an increase in GPA by STD/2, then the skewness and kurt
 # situation is as follows:
 grade[grade < 43] = grade[grade < 43] + (std/2) 
+
 
 
 # As can be seen in the second plot, the skewness has shifted to the right, meaning that the 
