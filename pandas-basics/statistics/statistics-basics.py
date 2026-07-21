@@ -6,6 +6,7 @@ from scipy import stats
 
 data = pd.read_csv("student_data.csv")
 
+
 print(data.head())
 
 
@@ -35,7 +36,6 @@ print("-------------------------------")
 
 #Calculating the mode (most repeated)
 print(df_grade.mode())
-
 
 
 print("-------------------------------")
