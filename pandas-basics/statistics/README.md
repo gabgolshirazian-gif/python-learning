@@ -31,4 +31,13 @@ Concepts of exercises related to descriptive statistics and data description
  ![rand_normal_ high_scale_qqplot_4](images/comparison_qqplot/rand_normal_high_scale_qqplot_4.PNG)
  ![rand_uniform_qqplot_5](images/comparison_qqplot/rand_uniform_qqplot_5.PNG)
  ![randnormal_randuniform_comparison_6](images/comparison_qqplot/randnormal_randuniform_comparison_6.PNG)
+
+
+- [Comparison two statistical samples using qqplot and qqplot2samples tools.](qqplot&qqplot2samples_comparison.py)
+
+  ![grade_plot](images/qqplot&qqplot2samples_comparison/grade_plot.PNG)
+  ![grade_qqplot](images/qqplot&qqplot2samples_comparison/grade_qqplot.PNG)
+  ![grade_new_plot](images/qqplot&qqplot2samples_comparison/grade_new_plot.PNG)
+  ![grade&grade_new_qqplot2samples](images/qqplot&qqplot2samples_comparison/grade&grade_new_qqplot2samples.PNG)
+  
  
